@@ -11,3 +11,16 @@ C:\Users\narendra\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Alg
 C:\Users\narendra\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
 C:\Users\narendra\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
 C:\Users\narendra\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
+E:\coding\GitHub\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+E:\coding\GitHub\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+E:\coding\GitHub\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+E:\coding\GitHub\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+E:\coding\GitHub\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+E:\coding\GitHub\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+E:\coding\GitHub\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
